@@ -1,8 +1,8 @@
 # CAS IPB Auto Login
 
 <p align="center">
-<a href="https://chrome.google.com/webstore/detail/cas-ipb-auto-login/ppnlghhknlhlbndnhfmelcijjagngjme"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="Available in the Chrome Web Store"></a>
-<a href="https://addons.mozilla.org/firefox/downloads/file/4182623/cas_ipb_auto_login-1.0.1.xpi"><img src="https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png" alt="Get The Add-On"></a>
+<a href="https://chrome.google.com/webstore/detail/cas-ipb-auto-login/ppnlghhknlhlbndnhfmelcijjagngjme" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="Available in the Chrome Web Store"></a>
+<a href="https://addons.mozilla.org/firefox/downloads/file/4182623/cas_ipb_auto_login-1.0.1.xpi" target="_blank"><img src="https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png" alt="Get The Add-On"></a>
 </p>
 
 
